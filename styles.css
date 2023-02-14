@@ -78,5 +78,8 @@ body {
   /*   border: 2px solid blue; */
   width: 100%;
   height: 100%;
-  animation: rotation 2s linear infinite;
+  /*   ORIGINAL */
+  /*   animation: rotation 2s linear infinite; */
+  /*   FASTER */
+  animation: rotation 1.5s linear infinite;
 }
