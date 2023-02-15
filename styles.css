@@ -18,7 +18,7 @@ body {
   border: 2px solid gray;
 }
 
-.loader {
+.spinner {
   position: relative;
   width: 80px;
   height: 80px;
