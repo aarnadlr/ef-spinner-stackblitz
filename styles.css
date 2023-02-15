@@ -67,7 +67,7 @@ body {
   /*   border: 2px solid red; */
   width: 100%;
   height: 100%;
-  animation: rotation 1s linear infinite;
+  animation: rotation .75s linear infinite;
 }
 
 /* SLOW */
@@ -79,7 +79,7 @@ body {
   width: 100%;
   height: 100%;
   /*   ORIGINAL */
-  /*   animation: rotation 2s linear infinite; */
+    animation: rotation 1.1s linear infinite;
   /*   FASTER */
-  animation: rotation 1.5s linear infinite;
+  /* animation: rotation 1.5s linear infinite; */
 }
